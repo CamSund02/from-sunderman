@@ -9,3 +9,7 @@ This is a table of books, songs and videos that I recommend people try out. Some
 |Harry Potter |highway 95|Breaking Bad           |
 |Percy Jackson|Honest    |Cyberpunk Edgerunners  |
 |Frankenstien |Immortal  |Game of Thrones        |
+___
+> If you don't believe in love, what's the point of living - *Ron Swanson*
+> No, you clearly don't know who you're talking to, so let me clue you in. I am not in danger, Skyler. I am the danger. - *Walter White*
+> The future belongs to those who believe in the beauty of their dreams - *Eleanor Roosevelt*
