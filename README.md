@@ -9,3 +9,4 @@ Dumplings, Orange Chicken, Fried Rice
 - Home Depot
 - Dick's Sporting Goods
 - Target
+[Link to MyMedia File](MyMedia.md)
